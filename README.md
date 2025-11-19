@@ -1,4 +1,4 @@
-Welcome to the chronological study roadmap. Select a book below to begin.
+Bible Road Map of Events, Stories, and Geneology.
 
 ## The Book of Genesis
 * [**Part I: Primeval History**](./genesis/part1.md)
